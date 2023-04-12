@@ -8,8 +8,8 @@ Projeto de Data Science de uma loja de varejo
 ## Sobre a a base de dados:
 
 - 1.1 Base de dados importada do kaggle a fins de estudos pessoais
-- 1.2 Transaçoes de uma loja de varejo fisica, que por propositos de aprendizado sera usado como um ecommerce eventualmente
-- 1.3 Link para base de dados: https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions
+- 1.2 Base contem transaçoes de uma loja de varejo fisica, que por propositos de aprendizado sera usado como um ecommerce eventualmente
+[Link para base de dados](https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions)
 
 ## Por que essa base de dados?
 
